@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background-color: #303030;
+    color: #ffffff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 60px;
+    font-size: 20px;
+
+}
+
+
+#titulo {
+    font-size: 60px;
+
+}
+
+nav {
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
+    background-color: #f9f9f9;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+menu {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#texto {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#texto2 {
+    font-size: 25px;
+}
+
+
+
+#subTitulo{
+    font-size:15px;
+
+}
+
+footer {
+    background-color: #303030;
+    color: #f9f9f9;
+    text-align: center;
+    padding: 50px;
+}
+
+input {
+    width: 400px;
+    height: 50px;
+    border-radius: 7px;
+    padding-left: 15px;
+    margin-bottom: 30px;
+    border: none;
+
+
+}
+
+form {
+    padding-top: 30px;
+}
+
+button {
+    background-color: #C07212;
+    margin-top: 30px;
+    width: 240px;
+    height: 50px;
+    color: #f9f9f9;
+    padding-top: 13px;
+    padding-bottom: 24px;
+    border: none;
+    border-radius: 10px;
+    font-size: 21px;
+    cursor: pointer;
+}
